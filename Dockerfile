@@ -1,4 +1,4 @@
-FROM google/cloud-sdk:542.0.0-alpine
+FROM google/cloud-sdk:544.0.0-alpine
 
 COPY entrypoint.sh /
 
